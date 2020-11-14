@@ -57,7 +57,7 @@
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
 |s.shuka-sil|Botun Kanala attığı tüm mesajları siler|YOK|
 |s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
-|s.reklam-taraması|Kullanıcı adı ve Oynuyır kısmında reklam içeren kullanıcıları tarar|YOK|
+|s.reklam-taraması|Kullanıcı adı ve Oynuyor kısmında reklam içeren kullanıcıları tarar|YOK|
 
 # Kullanıcı [19] 
 
