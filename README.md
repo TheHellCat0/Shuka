@@ -11,7 +11,7 @@
 |s.pokemon|Pokemonun bilgilerini ararsın|s.pokemon (pokemon adı veya id si) |
 
 
-# Eğlence [16]
+# Eğlence [17]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -21,6 +21,7 @@
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (etiket) |
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (etiket) |
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (etiket) |
+|s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru) |
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.lyrics|İsmini yazdığınız şarkının sözlerini görüntüler|s.lyrics (şarkı adı)|
@@ -59,6 +60,7 @@
 |s.shuka-nick|Botun Sunucudaki takma adını ayarlar|s.shuka-nick (nick) |
 |s.reklam-taraması|Kullanıcı adı ve Oynuyor kısmında reklam içeren kullanıcıları tarar|YOK|
 
+
 # Kullanıcı [19] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
@@ -77,7 +79,7 @@
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
 |s.renkara|Girdiğiniz hex kodunun bilgilerini gösterir|s.renkara (renkkodu)|
-|s.spotify|Spotify'dan şarkı dinleyn birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
+|s.spotify|Spotify'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|Giphy'de gif ararsın|s.giphy (gif adı) |
 |s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
