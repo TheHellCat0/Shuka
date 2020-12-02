@@ -78,7 +78,7 @@
 |s.qr oluştur/okut|Yazınızı qr koduna dönüştürür - s.qr okut Attığınız qr kodunu okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg) 
 |s.github|Github'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
-|s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: × Toplama: + Çıkartma: -) |
+|s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
 |s.renkara|Girdiğiniz hex kodunun bilgilerini gösterir|s.renkara (renkkodu)|
 |s.spotify|Spotify'dan şarkı dinleyen birinin şarkı bilgilerini görüntüler|s.spotify (etiket) |
 |s.tenor|Tenor'da gif ararsın|s.tenor (gif adı) |
