@@ -11,7 +11,7 @@
 |s.pokemon|[Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini ararsın|s.pokemon (pokemon adı)|
 
 
-# Eğlence [17]
+# Eğlence [18]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -21,6 +21,7 @@
 |s.tokatla|Etiketlediğin kişiyi tokatlarsın|s.tokatla (kullanıcı etiket)|
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (kullanıcı etiket)|
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (kullanıcı etiket)|
+|s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
