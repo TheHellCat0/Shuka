@@ -1,4 +1,4 @@
-# Anime [7]
+# Anime [8]
 
 |      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
 | :------------ |:---------------:| -----:|
@@ -9,6 +9,7 @@
 |s.myanimelistprofil|MyAnimeList'de [kullanıcı](https://myanimelist.net/profile/TheHellCat) profilini ararsın|s.myanimelistprofil (m.a.l. kullanıcı adı)|
 |s.loli|FBI evine loli gönderir 🙃|YOK|
 |s.pokemon|[Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini ararsın|s.pokemon (pokemon adı)|
+|s.kanna|Kanna'nın sana bir mesajı var|s.kanna (metin)|
 
 
 # Eğlence [18]
