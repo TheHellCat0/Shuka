@@ -47,6 +47,7 @@
 |s.hızlı-geç|Birden fazla şarkıyı geçmenizi sağlar|s.hızlı-geç (geçilecek şarkı sayısı)|
 |s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
 |s.karıştır|Karışık çakmayı açar|YOK|
+
 # Bot [6]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
