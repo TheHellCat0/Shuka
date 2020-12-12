@@ -38,6 +38,7 @@
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
+|s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
 |s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 
 # Bot [6]
