@@ -38,8 +38,8 @@
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
-|s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
+|s.ses|Oynatılan şarkının sesini ayarlar|s.ses (0 - 100)|
+|s.durdur|Oynatılan şarkıyı kapatır|YOK|
 
 # Bot [6]
 
