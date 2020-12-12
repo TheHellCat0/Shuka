@@ -38,14 +38,6 @@
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
-|s.çalmalistesi|İsmini yada linkini attığınız YouTube çalma listesini oynatır|s.çalmalistesi (PlayList İsmi/PlayList Linki)|
-|s.ses|Oynatılan şarkının sesini ayarlar|s.ses (0 - 100)|
-|s.durdur|Oynatılan şarkıyı kapatır|YOK|
-|s.geç|Sırada şarkıya geçer|YOK|
-|s.hızlı-geç|Birden fazla şarkıyı geçmenizi sağlar|s.hızlı-geç (geçilecek şarkı sayısı)|
-|s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
-|s.karıştır|Karışık çakmayı açar|YOK|
 |s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
 
 # Bot [6]
