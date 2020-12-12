@@ -1,6 +1,6 @@
 # Anime [8]
 
-|      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
 |s.kitsu-anime|[Kitsu](https://kitsu.io/)'da anime ararsın|s.kitsu-anime (anime adı)|
 |s.kitsu-manga|Kitsu'da manga ararsın|s.kitsu-anime (manga adı)|
@@ -14,7 +14,7 @@
 
 # Eğlence [17]
 
-|      `Komut`    |  `Açıklama` | `Kullanım Örneği`  |
+|`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
 |s.ascii|Yazdığın metini ascii formatına dönüştürür|s.ascii (metin)|
 |s.yazıtura|Japon parasi ile yazı tura atarsın|YOK|
@@ -37,7 +37,7 @@
 # Müzik [8]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|----|----|
+| :------------ |:---------------:| -----:|
 |s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
 |s.çalmalistesi|İsmini yada linkini attığınız YouTube çalma listesini oynatır|s.çalmalistesi (PlayList İsmi/PlayList Linki)|
 |s.ses|Oynatılan şarkının sesini ayarlar|s.ses (0 - 100)|
@@ -51,7 +51,7 @@
 # Bot [6]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|----|----|
+| :------------ |:---------------:| -----:|
 |s.çalışmasüresi|Botun aktif olduğu süreyi gösterir|YOK|
 |s.ping|Botun gecikmesini ölçer|YOK|
 |s.vote|Botun oy verme [sayfası](http://bit.ly/shuka-vote)nın linkini atar|YOK|
@@ -62,7 +62,7 @@
 # Yetkili [9] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|----|----|
+| :------------ |:---------------:| -----:|
 |s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (kullanıcı etiket) (sebep)|
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) (isteğe bağlı sebep) |
 |s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
@@ -76,7 +76,7 @@
 # Kullanıcı [20] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|----|----|
+| :------------ |:---------------:| -----:|
 |s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket - id) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
 |s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler (kullanıcı etiket) |
