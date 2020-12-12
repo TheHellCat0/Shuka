@@ -35,6 +35,7 @@
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
 # Müzik [8]
+
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
 |s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
