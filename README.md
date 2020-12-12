@@ -35,6 +35,7 @@
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
 # Müzik [8]
+
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 |----|----|----|
 |s.çal|İsmini yada linkini attığınız YouTube parçasını oynatır|s.çal (Video İsmi/Video Linki)|
@@ -50,7 +51,7 @@
 # Bot [6]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
-|----|---|---|
+|----|----|----|
 |s.çalışmasüresi|Botun aktif olduğu süreyi gösterir|YOK|
 |s.ping|Botun gecikmesini ölçer|YOK|
 |s.vote|Botun oy verme [sayfası](http://bit.ly/shuka-vote)nın linkini atar|YOK|
