@@ -74,7 +74,7 @@
 |s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
 |s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick) |
 
-# Kullanıcı [20] 
+# Kullanıcı [21] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -87,8 +87,9 @@
 |s.sunucubilgi|Sunucu hakkında bilgi verir|YOK|
 |s.kullanıcıbilgi|Etiketlediğiniz kullanıcı hakkında bilgi verir|s.kullanıcıbilgi (yada etiket) |
 |s.kanalbilgi|Kullandığınız kanal hakkında bilgi verir|YOK|
-|s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia (kelime) 
-|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg) 
+|s.wikipedia|[Wikipedia](https://tr.m.wikipedia.org/)'da arama yaparsın|s.wikipedia (kelime)| 
+|s.qr oluştur/okut|Yazınızı qr koduna dönüştürür/okutur|s.qr oluştur (metin) - s.qr okut (.png/.jpg)|
+|s.base64 oluşur/çöz|Yazınızı base64 formatına dönüştürür/okutur|s.base64 oluştur (metin) - s.base64 çöz (base64 metin)|
 |s.github|[Github](https://github.com)'da kullanıcı veya repo araması yaparsın|Örnek: s.github TheHellCat0 discord-shuka-bot |
 |s.karakter-sayacı|Yazdığın metindeki toplam karakter sayısını göster|s.karakter-sayacı (metin) |
 |s.hesapla|4 işlemden istediğini yaparsın|s.hesapla (Bölme: / Çarpma: * Toplama: + Çıkartma: -) |
