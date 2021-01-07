@@ -25,7 +25,7 @@
 |s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
-|s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (kullanıcı etiket) (metin)|
+|s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (dark/light) (kullanıcı etiket) (metin)|
 |s.rusruleti|Rus ruleti oynarsın|YOK|
 |s.mayın-tarlası|Mayın tarlası oynarsın|s.mayın-tarlası (satır) (sütun) (mayın)|
 |s.emojiyaz|Yazdığın metini emojili hale getirir|s.emojiyaz (metin)|
