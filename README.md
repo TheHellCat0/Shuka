@@ -1,4 +1,4 @@
-# Anime [8]
+# Anime [9]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -10,7 +10,7 @@
 |s.loli|FBI evine loli gönderir 🙃|YOK|
 |s.pokemon|[Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini ararsın|s.pokemon (pokemon adı)|
 |s.kanna|Kannaya yazı yazdırırsın|s.kanna (metin)|
-
+|s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
 
 # Eğlence [16]
 
