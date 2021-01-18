@@ -33,7 +33,7 @@
 |s.duello|Etiketlediğin kişiyle duello yaparsın|s.duello (etiket)|
 |s.masafırlat|(╯°□°)╯           ┬─┬ |YOK|
 
-# Müzik [9]
+# Müzik [13]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -46,7 +46,10 @@
 |s.döngü|Şarkı veya şarkıları sürekli tekrarlar|YOK|
 |s.karıştır|Karışık çalmayı açar|YOK|
 |s.lyrics|[Genius](https://genius.com/)'da ismini yazdığınız şarkının sözlerini gösterir|s.lyrics (şarkı adı)|
-
+|s.çalan|Çalan şarkı hakkında bilgi verir|YOK|
+|s.duraklat|Çalan şarkıyı duraklatır|YOK|
+|s.devamet|Duraklatılan şarkıyı devam ettirir|YOK|
+|s.earrape|Kulak zarınızı yokeder|YOK|
 
 # Bot [10]
 
@@ -56,10 +59,10 @@
 |s.ping|Botun gecikmesini ölçer|YOK|
 |s.vote|Botun oy verme [sayfası](http://bit.ly/shuka-vote)nın linkini atar|YOK|
 |s.shuka-bilgi|Bilgi ve istatistiklerimi gösterir|YOK|
-|s.davet|Botun davet [linki](waa.ai/shuka)ni atar. |YOK|
-|s.komutsayısı|Bottaki toplam komut sayısını atar|YOK|
+|s.davet|Botun davet [linki](waa.ai/shuka)ni atar|YOK|
+|s.komutsayısı|Bottaki toplam komut sayısını gösterir|YOK|
 |s.shuka-sil|Botun Kanala attığı son 100 mesajı siler|YOK|
-|s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick) |
+|s.shuka-nick|Botun sunucudaki takma adını ayarlar|s.shuka-nick (yeni nick)|
 |s.bildir|Hata,bug,yada önerileri sahibime gönderirsin|s.bildir (metin)|
 |s.yenilikler|Son yapılan değişiklikleri gösterir|YOK|
 
