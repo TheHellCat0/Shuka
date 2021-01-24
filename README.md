@@ -1,3 +1,4 @@
+
 # Anime [9]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
@@ -66,17 +67,18 @@
 |s.bildir|Hata,bug,yada önerileri sahibime gönderirsin|s.bildir (metin)|
 |s.yenilikler|Son yapılan değişiklikleri gösterir|YOK|
 
-# Yetkili [7] 
+# Yetkili [8] 
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
 |s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (kullanıcı etiket) (sebep)|
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) (isteğe bağlı sebep) |
-|s.unban|İd si atılan kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
+|s.unban|ID'si atılan kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
 |s.emojiekle|Linkini attığınız emojiyi sunucuya yükler|s.emojiekle (emoji linki .png,.jpg,.gif)|
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (kullanıcı etiket) (sebep)|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 1|s.sil (silinecek mesaj sayısı) |
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
+|s.nuke|Kanalı klonlar ve eskisini siler|s.nuke/s.nuke (kanal etiket)|
 
 # Kullanıcı [22] 
 
