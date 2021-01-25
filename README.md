@@ -1,4 +1,3 @@
-
 # Anime [9]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
@@ -71,10 +70,10 @@
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.ban|Belirlediğin kullanıcıyı sunucudan yasaklar|s.ban (kullanıcı etiket) (sebep)|
+|s.ban|Etiketlediğiniz kullanıcıyı sunucudan yasaklar|s.ban (kullanıcı etiket) (sebep)|
 |s.forceban|ID'sini attığınız kullanıcıyı sunucuda olmasa bile yasaklar|s.forceban (kullanıcı id) (isteğe bağlı sebep) |
-|s.unban|ID'si atılan kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
-|s.emojiekle|Linkini attığınız emojiyi sunucuya yükler|s.emojiekle (emoji linki .png,.jpg,.gif)|
+|s.unban|ID'sini attığınız kullanıcının yasağını kaldırır|s.unban (id) (isteğe bağlı sebep)|
+|s.emojiekle|Linkini attığınız emojiyi sunucuya yükler|s.emojiekle (emoji linki .png,.jpg,.gif) (emoji ismi)|
 |s.kick|Belirlediğin kullanıcıyı sunucudan atar|s.kick (kullanıcı etiket) (sebep)|
 |s.sil|Belirlediğin miktarda mesajı siler max 100 min 1|s.sil (silinecek mesaj sayısı) |
 |s.sabitle|ID'sini attığınız mesajı sabitler|s.sabitle (mesaj ID) |
@@ -84,7 +83,7 @@
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.avatar|Etiketlediğin kişinin Avatarını atar|s.avatar \ s.avatar (etiket - id) |
+|s.avatar|Etiketlediğin kullanıcının Avatarını atar|s.avatar \ s.avatar (etiket - id) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
 |s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler (kullanıcı etiket) |
 |s.roller|Sunucudaki tüm rolleri ve yetki seviyesini listeler|YOK|
