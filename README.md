@@ -12,7 +12,7 @@
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna (metin)|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
 
-# Eğlence [16]
+# Eğlence [17]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -23,6 +23,7 @@
 |s.okşa|Etiketlediğin kişiyi okşarsın|s.okşa (kullanıcı etiket)|
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (kullanıcı etiket)|
 |s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
+|s.ağla|Ağlarsın|YOK|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (dark/amoled/light) (kullanıcı etiket) (metin)|
@@ -83,7 +84,7 @@
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
-|s.avatar|Etiketlediğin kullanıcının Avatarını atar|s.avatar \ s.avatar (etiket - id) |
+|s.avatar|İstediğiniz kullanıcın avatarını gösterir|s.avatar \ s.avatar (etiket - id) |
 |s.sunucuikon|Sunucunun İkonunu atar|YOK|
 |s.yetkiler|Bir kullanıcının sunucudaki yetkilerine bakarsın|s.yetkiler (kullanıcı etiket) |
 |s.roller|Sunucudaki tüm rolleri ve yetki seviyesini listeler|YOK|
@@ -102,6 +103,6 @@
 |s.osu|[Osu](https://osu.ppy.sh/) kullanıcı yada beatmap bilgilerini gösterir|s.osu kullanıcı (kullanıcı adı) / s.osu beatmap (beatmap id) |
 |s.tenor|[Tenor](https://tenor.com/)'da gif ararsın|s.tenor (gif adı) |
 |s.giphy|[Giphy](https://giphy.com/)'de gif ararsın|s.giphy (gif adı) |
-|s.emojibüyüt|Attığın emojinin büyük halini gösterir|s.emojibüyüt (emoji)|
+|s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt (emoji)|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url)|
