@@ -1,3 +1,4 @@
+
 # Anime [9]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
@@ -12,7 +13,7 @@
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna (metin)|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
 
-# Eğlence [17]
+# Eğlence [18]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -24,6 +25,7 @@
 |s.sarıl|Etiketlediğin kişiye sarılırsın|s.sarıl (kullanıcı etiket)|
 |s.dürt|Etiketlediğin kişiyi dürtersin|s.dürt (kullanıcı etiket)|
 |s.ağla|Ağlarsın|YOK|
+|s.napim|Laf koyarsın|s.napim (etiket)|
 |s.owoify|OwO Budanediw x3|s.owoify (metin)|
 |s.8ball|Bota soru sorarsın|s.8ball (soru)|
 |s.fakeyaz|Etiketlediğin kişiye sahte yazı yazdırırsın|s.fakeyaz (dark/amoled/light) (kullanıcı etiket) (metin)|
