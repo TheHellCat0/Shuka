@@ -1,4 +1,4 @@
-# Anime [9]
+# Anime [10]
 
 |`Komut`|`Açıklama`|`Kullanım Örneği`|
 | :------------ |:---------------:| -----:|
@@ -11,6 +11,7 @@
 |s.pokemon|Yazdığınız [Pokemon](https://www.pokemon.com/us/pokedex/)un bilgilerini alırsın|s.pokemon (pokemon adı)|
 |s.kanna|Kanna'ya yazı yazdırırsın|s.kanna (metin)|
 |s.safebooru|[Safebooru](https://safebooru.org/)'da resim araması yaparsın|s.safebooru (metin)|
+|s.kanochan|kanochan.net'de resim araması yaparsın.|s.kanochan (tag)|
 
 # Eğlence [18]
 
@@ -108,3 +109,6 @@
 |s.emojibüyüt|Attığınız emojiyi büyütür|s.emojibüyüt (emoji)|
 |s.emojibilgi|Sunucudaki emoji hakkında bilgi verir|s.emojibilgi (emoji ismi) |
 |s.ekrangörüntüsü|url'si yazılan sitenin ekran görüntüsünü atar|s.ekrangörüntüsü (url)|
+
+
+## + NSFW komutları
